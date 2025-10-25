@@ -3,7 +3,7 @@
 An AI-powered conversational interface to interact with SQL databases using natural language. Ask questions in plain English and get instant answers from your SQLite or MySQL databases.
 
 <!-- Add your screenshot here -->
-![App Demo](sqlchat.png)
+![App Demo](chatsql.png)
 
 ## ✨ Features
 
